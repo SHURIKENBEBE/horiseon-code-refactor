@@ -21,6 +21,8 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Links 
+https://github.com/SHURIKENBEBE/horiseon-code-refactor
 
+https://shurikenbebe.github.io/horiseon-code-refactor/
 
 ## Screenshot
