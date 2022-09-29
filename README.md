@@ -1,7 +1,7 @@
 # Code Refactor
 
 ## Description 
-This project focuses on code refactoring for an exisiting website, which is a process of restructuring or cleanin up redundant code while preserving its external behavior and functionality. 
+This project focuses on code refactoring for an exisiting website, which is a process of restructuring and or cleanin up redundant code while preserving its external behavior and functionality. 
 
 ## User Story
 AS A marketing agency
